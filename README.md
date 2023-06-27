@@ -1,1 +1,2 @@
 # -stock-market-trends.
+The model demonstrated promising results with a high R-squared error of {0.95}. This indicates that the model effectively captures a significant portion of the variation in the stock market based on the chosen features.high R-squared value of 0.95 in your project indicates that your model is able to capture a significant portion of the variation in the 'SPX' variable based on the selected features
